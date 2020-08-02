@@ -10,16 +10,13 @@ The purpose in examining this data was for Louise, who is interested in starting
 	
 The analysis of outcomes based on launch date, determined that the time of year is an important indicator for success. The data in this line graph expresses that launch dates during the months of May, June, & July are best for success. May is the best month, June the second and July the third best for launch.
 	
-
-
-![LINE_GRAPH_HERE](Resources\Theater_Outcomes_vs_Launch.png)
-
+![LINE_GRAPH_HERE1](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 Historical data suggests that if the monetary goal is kept below $5000, there is about a 75% chance of success. On the other hand, if the goal is set at $5000 or higher, but less than $15000, then there is about a 55% chance of success. This analysis indicates that Louise's planned goal of $12000 would have about a 50% likelihood of success. 
 
-![LINE_GRAPH_HERE](Resources/Outcomes_vs_Goals.png)
+![LINE_GRAPH_HERE2](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -39,7 +36,7 @@ Two conclusions about the Outcomes based on Launch Date are:
 
 What are some limitations of this dataset?
 
-- The donation amount per doner is unknown, therefore using the average donation can be masking skewed distributions. Knowing the donation amount per donor could provide insight into how to advertise the campaign.
+- The donation amount per donor is unknown, therefore using the average donation can be masking skewed distributions. Knowing the donation amount per donor could provide insight into how to advertise the campaign.
 
 - There was no data on how the kickstarter was promoted. For example, through social media platform, email, mail, etc. This data would reveal which promoting method has had the highest level of success.
 
